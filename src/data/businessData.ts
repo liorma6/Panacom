@@ -85,7 +85,7 @@ export const productCategories = [
     title: "מרכזיות וטלפוניה",
     brands: ["Panasonic"],
     image:
-      "https://images.unsplash.com/photo-1516383607421-dfdf1bb19163?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1516383274235-5f42d6c6426d?auto=format&fit=crop&w=800&q=80",
     desc: "פתרונות תקשורת קווית ובענן",
   },
   {
