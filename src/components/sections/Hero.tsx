@@ -9,7 +9,7 @@ export function Hero() {
           alt="מערכת תקשורת ואבטחה"
           className="h-full w-full object-cover"
         />
-        <div className="absolute inset-0 bg-brand-blue/80 mix-blend-multiply"></div>
+        <div className="absolute inset-0 bg-slate-950/70"></div>
       </div>
 
       <div className="relative container mx-auto px-6 py-28 lg:py-32">
