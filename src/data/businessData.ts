@@ -14,7 +14,7 @@ export const heroData = {
   subtitle:
     "תכנון, התקנה ותחזוקה של מערכות תקשורת, מצלמות אבטחה ומרכזיות – עם שירות אישי וניסיון מוכח",
   buttons: [
-    { label: "📞 קבל הצעת מחיר", href: "tel:0503030690" },
+    { label: "📞 חייג להצעת מחיר", href: "tel:0503030690" },
     { label: "💬 צור קשר בוואטסאפ", href: contact.whatsapp },
     { label: "🧱 שירותים", href: "#services" },
   ],
