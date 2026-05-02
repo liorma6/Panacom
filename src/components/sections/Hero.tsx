@@ -5,7 +5,7 @@ export function Hero() {
     <section className="relative overflow-hidden bg-slate-950 text-white">
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1555985540-5fc57f9ef4b8?auto=format&fit=crop&w=1600&q=80"
+          src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1600&q=80"
           alt="מערכת תקשורת ואבטחה"
           className="h-full w-full object-cover"
         />
