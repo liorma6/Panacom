@@ -3,12 +3,12 @@ import { businessInfo, contact } from "../../data/businessData";
 export function Navbar() {
   return (
     <header className="fixed inset-x-0 top-0 z-50 bg-white shadow-sm">
-      <div className="container mx-auto flex items-center justify-between px-6 py-4 text-right">
+      <div className="container mx-auto flex items-center justify-between px-6 py-3 text-right">
         <div className="flex items-center gap-4">
           <img
             src="/logo-panacom.png"
             alt="Panacom Logo"
-            className="h-40 w-auto"
+            className="h-28 w-auto"
           />
         </div>
         <a
