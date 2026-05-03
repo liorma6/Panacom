@@ -60,7 +60,7 @@ export const servicesData = [
 ];
 
 export const whyChooseUsData = {
-  title: "למה לבחור בי?",
+  title: "למה לבחור בנו?",
   items: [
     "ניסיון רב בתחום התקשורת והאבטחה",
     "שירות אישי וליווי מלא מהתכנון ועד ההתקנה",
