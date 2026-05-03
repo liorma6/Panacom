@@ -8,7 +8,7 @@ export function Navbar() {
           <img
             src="/logo-panacom.png"
             alt="Panacom Logo"
-            className="h-32 w-auto"
+            className="h-40 w-auto"
           />
         </div>
         <a
